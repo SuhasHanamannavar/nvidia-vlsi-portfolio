@@ -1,0 +1,14 @@
+# Simulation output artifacts
+*.vvp
+*.vcd
+*.vpd
+*.log
+obj_dir/
+
+# Editor / OS files
+.vscode/
+*.swp
+*~
+Thumbs.db
+.DS_Store
+__pycache__/
