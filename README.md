@@ -1,0 +1,43 @@
+# NVIDIA VLSI Portfolio
+
+A hands-on hardware engineering portfolio focused on digital design, RTL implementation, verification, computer architecture, ASIC/VLSI flow, and GPU architecture.
+
+## Mission
+
+I am building strong fundamentals and practical engineering evidence for NVIDIA hardware roles. I will turn each topic into documented RTL, self-checking testbenches, simulation results, and design trade-off notes. My goal is to become an engineer who can explain, implement, verify, and improve reliable high-performance digital systems.
+
+## Repository Structure
+
+- `docs/` — architecture notes, diagrams, and reports
+- `rtl/` — synthesizable Verilog/SystemVerilog designs
+- `tb/` — testbenches and verification environments
+- `projects/` — complete portfolio projects
+- `resources/` — curated references and learning aids
+- `notes/` — daily and weekly study notes
+
+## Quick Start
+
+Compile and run the starter testbench with Icarus Verilog:
+
+```bash
+iverilog -g2012 -o build/hello_sim rtl/hello_world.v tb/hello_world_tb.v
+vvp build/hello_sim
+```
+
+Expected result:
+
+```text
+PASS: hello_world output is correct
+```
+
+The testbench also creates `hello_world.vcd`, which can be viewed in GTKWave.
+
+## Roadmap
+
+The learning plan runs from digital-logic fundamentals through Verilog/SystemVerilog, architecture, ASIC flow, GPU concepts, advanced RTL, and flagship portfolio projects.
+
+## Current Status
+
+- Development tools installed and available on PATH
+- GitHub portfolio initialized
+- Starter RTL and self-checking testbench verified
