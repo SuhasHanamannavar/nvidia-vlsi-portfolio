@@ -3,7 +3,10 @@
 *.vcd
 *.vpd
 *.log
+*.fst
+*.tmp
 obj_dir/
+build/
 
 # Editor / OS files
 .vscode/

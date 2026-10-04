@@ -2,9 +2,9 @@
 // A simple 8-bit counter that increments on each clock edge
 
 module hello_world(
-    input  wire        clk,
-    input  wire        rst_n,
-    output reg  [7:0]  led
+    input wire        clk,
+    input wire        rst_n,
+    output reg [7:0]  led
 );
 
 always @(posedge clk or negedge rst_n) begin
