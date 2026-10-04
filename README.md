@@ -1,6 +1,6 @@
 # NVIDIA VLSI & Hardware Portfolio (`nvidia-vlsi-portfolio`)
 
-## 🎯 Mission Statement
+##  Mission Statement
 To build end-to-end expertise in digital logic, synthesizable RTL design (Verilog/SystemVerilog), ASIC flow, computer architecture, and GPU hardware paradigms, culminating in an interview-ready portfolio for hardware/ASIC engineering roles at NVIDIA.
 
 ---
