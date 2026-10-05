@@ -82,4 +82,4 @@ The learning plan runs from digital-logic fundamentals through Verilog/SystemVer
 
 - Development tools installed and available on PATH
 - GitHub portfolio initialized
-- Starter RTL and self-checking testbench verified
+- Starter RTL and self-checking testbench verified 
