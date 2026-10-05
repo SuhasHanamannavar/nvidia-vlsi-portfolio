@@ -66,7 +66,7 @@ iverilog -g2012 -o build/hello_sim rtl/hello_world.v tb/hello_world_tb.v
 vvp build/hello_sim
 ```
 
-Expected result:
+Expected result: 
 
 ```text
 PASS: hello_world output is correct
