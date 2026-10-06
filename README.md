@@ -8,7 +8,7 @@ To build end-to-end expertise in digital logic, synthesizable RTL design (Verilo
 ## Why NVIDIA? (My 3-Sentence Story)
 1. NVIDIA stands at the frontier of accelerated computing, where architecture, silicon design, and software co-design solve the world's most demanding computational problems.
 2. I am driven by the challenge of designing high-efficiency digital systems—from pipelined datapaths to high-throughput parallel compute blocks—that directly shape the future of AI and graphics hardware.
-3. Joining NVIDIA means contributing to industry-defining architectures where every gate, pipeline stage, and timing slack optimization empowers global-scale computing.
+3. Joining NVIDIA means contributing to industry-defining architectures where every gate, pipeline stage, and timing slack optimization empowers global-scale computing. 
 
 ---
 
